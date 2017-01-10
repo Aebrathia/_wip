@@ -1,0 +1,14 @@
+{
+  "name": "generator-scss-arch",
+  "version": "0.1.0",
+  "description": "Generator for SCSS 7/1 architecture",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
